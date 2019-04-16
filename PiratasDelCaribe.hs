@@ -1,4 +1,4 @@
-import Text.Show.Functions 
+ import Text.Show.Functions 
 
 type Tesoro = (String, Integer)
 type Pirata = (String, [(Tesoro)])
